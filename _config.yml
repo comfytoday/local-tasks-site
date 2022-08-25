@@ -5,3 +5,6 @@ plugins:
 title: Local Tasks Application
 description: Local Task management software
 show_downloads: true
+
+github:
+  zip_url: https://github.com/comfytoday/local-tasks/releases/download/v0.0.1/Local.Tasks-darwin-x64-0.0.1.zip
